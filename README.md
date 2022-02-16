@@ -1,4 +1,4 @@
-# ArduinoCar
+# Bluetooth car
 
 The Bluetooth car  is a project car that can be controlled via bluetooth from computer.
 
